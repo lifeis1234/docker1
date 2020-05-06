@@ -16,7 +16,7 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 ad2ad96e4b2f        lifeis1234/nginx      "/bin/bash"         7 seconds ago       Up 6 seconds                            n1
 ```
 
-To test, ("nowage" is username. )
+To test, ("lifeis1234" is username. )
 ```
 	open 127.0.0.1:8888
 ```
